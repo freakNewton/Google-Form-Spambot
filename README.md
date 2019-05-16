@@ -1,6 +1,6 @@
 # Google-Form-Spambot
 
-# Prerequisites
+$ Prerequisites
 * Selenium Python module
 * Appropriate Browser Driver
 
